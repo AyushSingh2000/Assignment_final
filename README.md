@@ -1,16 +1,9 @@
 # assignment
 
-A new Flutter project.
+Made changes in SingleScrollView to make the application run smoothly.
 
-## Getting Started
+## Screen Recording
+Link to Screen Recording: [https://drive.google.com/file/d/185D2tg7e2vPyJQjMl0rd-n4D8VrPf3k4/view?usp=drive_link]
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Link to APK:
+[https://drive.google.com/file/d/1iZduxEv8T_wiFQUmOL0Xn6TQiEXzN7Yn/view?usp=drive_link]
